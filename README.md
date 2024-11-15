@@ -1,8 +1,9 @@
 # Panoptes Project
 
 ## Authors
+
+- Jean-Pierre Martinez/jp-ack
 - Brian Chen/VX1632
-- Jean-Pierre Martinez/jpmartinez10
 - Ina Shanelle Noceja/hurinah
 - Justin Ross/jross1092
 ## Overview
